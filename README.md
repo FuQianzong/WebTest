@@ -1,2 +1,1 @@
-# muctest
-first build
+# My first Web exercise
